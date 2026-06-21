@@ -33,3 +33,4 @@ This project was developed as part of the CodeClause Web Development Internship
 
 ### API
 - NewsAPI.org
+-Gemini API
